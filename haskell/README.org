@@ -47,7 +47,7 @@
 
  - Modules
 
-   - [[file:control_monad.org][Contro.Monad]]      - Monad Combinators 
+   - [[file:control_monad.org][Control.Monad]]      - Monad Combinators 
 
    - [[file:package_Data_Text.org][Data.Text]]         - String processing combinators.
 
